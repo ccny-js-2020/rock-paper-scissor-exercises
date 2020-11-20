@@ -1,0 +1,20 @@
+Rocks Paper Scissors on Picture Click
+1. You vs the Computer (use objects)
+2. When the picture of the Rock, the Paper, or the Scissor is clicked
+   compare your choice against the computers random choice,
+   and pick a winner of the round
+3. Record the results of the round on the page
+  - Your guess
+  - Computer guess
+  - Winner of round
+  - Your total wins
+  - Your winning percentage
+  - Ties
+  - Your last 10 guesses
+
+Notes:
+1. The computer guess will be random: 'rock', 'paper', or 'scissor'
+2. Scissor beats Paper
+   Rock beats Scissor
+   Paper beats Rock
+3. You will use the data attribute in this exercise

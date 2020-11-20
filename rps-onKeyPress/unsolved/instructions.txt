@@ -1,0 +1,21 @@
+Rocks Paper Scissors on Key Press
+1. You vs the Computer (use objects for the computer, player & game)
+2. When a key is pressed,
+   compare your choice against the computers random choice,
+   and pick a winner of the round
+3. Record the results of the round on the page
+  - Your guess
+  - Computer guess
+  - Winner of round
+  - Your total wins
+  - Your winning percentage
+  - Ties
+  - Your guesses
+
+Notes:
+1. The computer guess will be random: 'r', 'p', or 's'
+2. Only the letters 'r','p','s' are allowed to be pressed
+3. Scissor (s) beats Paper (p)
+   Rock (r) beats Scissor (s)
+   Paper (p) beats Rock (r)
+4. You will set a key press event on the whole document
