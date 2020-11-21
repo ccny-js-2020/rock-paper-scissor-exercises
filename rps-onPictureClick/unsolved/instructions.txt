@@ -1,9 +1,18 @@
 Rocks Paper Scissors on Picture Click
 1. You vs the Computer (use objects)
-2. When the picture of the Rock, the Paper, or the Scissor is clicked
+2. Have game start with a button (Start Game Button)
+   - When the browser loads
+      - The game content will be hidden
+      - The Start button will be shown
+   - When the Start Game button is clicked
+      - Hide thet start game button
+      - For the first 3 seconds, show a loading spinner
+      - Hide the spinner after 3 seconds
+      - The game content will show up after 3 seconds
+3. When the picture of the Rock, the Paper, or the Scissor is clicked
    compare your choice against the computers random choice,
    and pick a winner of the round
-3. Record the results of the round on the page
+4. Record the results of the round on the page
   - Your guess
   - Computer guess
   - Winner of round
